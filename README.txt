@@ -1,1 +1,1 @@
-przykladowy tekst
+przykladowy tekst - po zmianach
